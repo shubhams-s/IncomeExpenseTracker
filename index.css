@@ -311,6 +311,9 @@ overflow: hidden;
             gap: 20px;
             
         }
+        .form{
+            width: 90vw;
+        }
         .lookSummary{
             width: 90%;
         }
